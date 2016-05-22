@@ -17,10 +17,6 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
-                },
                 "1": {
                     "key": "F11",
                     "label": "F11"
@@ -136,10 +132,7 @@
             "w": 4,
             "h": 6,
             "layers": {
-                "0": {
-                    "key": "EQUAL",
-                    "label": "="
-                }
+
             }
         },
         {
@@ -306,8 +299,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "PRINTSCREEN",
-                    "label": "PRSC"
+                    "key": "LCK1",
+                    "label": "LOCK-1"
                 }
             }
         },
@@ -533,10 +526,6 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "LCK2",
-                    "label": "LOCK-2"
-                },
                 "1": {
                     "key": "F12",
                     "label": "F12"
@@ -652,8 +641,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "MINUS",
-                    "label": "-"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             }
         },
@@ -664,7 +653,10 @@
             "w": 4,
             "h": 6,
             "layers": {
-
+                "0": {
+                    "key": "EQUALS",
+                    "label": "="
+                }
             }
         },
         {
@@ -677,6 +669,10 @@
                 "0": {
                     "key": "Y",
                     "label": "Y"
+                },
+                "1": {
+                    "key": "HOME",
+                    "label": "HOME"
                 }
             }
         },
@@ -690,6 +686,10 @@
                 "0": {
                     "key": "U",
                     "label": "U"
+                },
+                "1": {
+                    "key": "PAGEUP",
+                    "label": "PGUP"
                 },
                 "2": {
                     "key": "P7",
@@ -729,6 +729,10 @@
                     "key": "O",
                     "label": "O"
                 },
+                "1": {
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
+                },
                 "2": {
                     "key": "P9",
                     "label": "P9"
@@ -745,6 +749,10 @@
                 "0": {
                     "key": "P",
                     "label": "P"
+                },
+                "1": {
+                    "key": "END",
+                    "label": "END"
                 },
                 "2": {
                     "key": "P+",
@@ -882,7 +890,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "LCK2",
+                    "label": "LOCK-2"
+                }
             }
         },
         {
@@ -892,7 +903,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "PRINTSCREEN",
+                    "label": "PRSC"
+                }
             }
         },
         {
@@ -902,7 +916,10 @@
             "w": 4,
             "h": 6,
             "layers": {
-
+                "0": {
+                    "key": "MINUS",
+                    "label": "-"
+                }
             }
         },
         {
@@ -1075,7 +1092,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "MINUS",
+                    "label": "-"
+                }
             }
         },
         {
@@ -1085,6 +1105,10 @@
             "w": 4,
             "h": 4,
             "layers": {
+                "0": {
+                    "key": "EQUALS",
+                    "label": "="
+                },
                 "2": {
                     "key": "P.",
                     "label": "P."
